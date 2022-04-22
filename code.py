@@ -1,4 +1,5 @@
 x = 10
 y = 30
-print(x+y)
+z = 40
+print(x+y+z)
 
