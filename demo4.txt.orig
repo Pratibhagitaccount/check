@@ -1,0 +1,6 @@
+thsi is demo4 file
+<<<<<<< HEAD
+one line is added from local repo
+=======
+changes from server end
+>>>>>>> 2dcfa7d2ff830c4e5ce9f524f226f3e976b06233
